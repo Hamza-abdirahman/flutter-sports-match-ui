@@ -1,6 +1,6 @@
-# Esports Match UI
+# Sports Match UI
 
-A Flutter application for an esports match registration platform with a modern dark theme, smooth animations, and fully responsive design that adapts seamlessly from small phones to tablets.
+A Flutter application for an Sports match registration platform with a modern dark theme, smooth animations, and fully responsive design that adapts seamlessly from small phones to tablets.
 
 ## 🎯 Features
 
